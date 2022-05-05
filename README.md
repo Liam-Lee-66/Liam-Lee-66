@@ -1,4 +1,4 @@
-![sadTrooper](assets/sadTrooper.jpg "sadTrooper")
+![Imperial March](assets/dontQuestionIt.jpg "Imperial March")
 
 # Hello There!
 My name is Liam Lee. I am a Software Development Student at Pembina Trails Early College and Manitoba Institute of Trades and Technology (MITT)! 
