@@ -1,11 +1,11 @@
 ![Imperial March](assets/dontQuestionIt.png "Imperial March")
 
 # Hello There!
-My name is Liam Lee. I am a Software Development Student at Pembina Trails Early College and Manitoba Institute of Trades and Technology (MITT)! 
+My name is Liam Lee. I am a Software Development Student at Pembina Trails Early College (PTEC) and Manitoba Institute of Trades and Technology (MITT)! 
 
 I like to make stuff like video games, computers, robots, webpages and more!
 
-I've learned Java, JavaScript, C# and web development stuff!
+I've learned Java, JavaScript, C# and Web Development stuff!
 
 ## Skills
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=51be8d)
@@ -16,8 +16,7 @@ I've learned Java, JavaScript, C# and web development stuff!
 
 
 
-
 ## The learning continues!!!
 Check out my 
 [Past projects](https://github.com/Liam-Lee-66/liam-lee-66.github.io)
-!
+I made during my journey!
