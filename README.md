@@ -15,6 +15,15 @@ I've learned Java, JavaScript, C# and Web Development stuff!
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=51be8d)
 
 
+## My specs
+<a href="https://github.com/Liam-Lee-66">
+  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=Liam-Lee-66&theme=vue&show_icons=true" alt="My GitHub stats" />
+</a>
+<a href="https://github.com/Liam-Lee-66">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liam-Lee-66&theme=vue&hide=Ruby&show_icons=true&langs_count=3" alt="My 
+  GitHub stats"/>
+</a>
+
 
 ## The learning continues!!!
 Check out my 
