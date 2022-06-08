@@ -1,4 +1,4 @@
-![Imperial March](assets/dontQuestionIt.png "Imperial March")
+![Landing image](assets/dontQuestionIt.jpg "Landing image")
 
 # Hello There!
 My name is Liam Lee. I am a Software Development Student at Pembina Trails Early College (PTEC) and Manitoba Institute of Trades and Technology (MITT)! 
