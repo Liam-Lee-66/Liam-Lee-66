@@ -27,5 +27,5 @@ I've learned Java, JavaScript, C# and Web Development stuff!
 
 ## The learning continues!!!
 Check out my 
-[Past projects](https://github.com/Liam-Lee-66/liam-lee-66.github.io)
+[Past Projects](https://github.com/Liam-Lee-66/liam-lee-66.github.io)
 I made during my journey!
