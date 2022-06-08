@@ -18,17 +18,5 @@ I've learned Java, JavaScript, C# and web development stuff!
 
 
 ### The learning continues!!!
-- [First Final Project](https://liam-lee-66.github.io/CyberLife-Website-After-edit-Mark-booster-/index.html)
-- [Second Final Project](https://liam-lee-66.github.io/MemoryExpress-Website/)
-- [Assignment 3](https://liam-lee-66.github.io/Intro_to_Web_Dev/Lee_Liam_Assignment_3/index.html)
-- [Assignment 4](https://liam-lee-66.github.io/Intro_to_Web_Dev/Lee_Liam_Assignment_4/index.html)
-- [Assignment 5](https://liam-lee-66.github.io/Intro_to_Web_Dev/Lee_Liam_Assignment_5/index.html)
-- [Assignment 6](https://liam-lee-66.github.io/Intro_to_Web_Dev/Lee_Liam_Assignment_6/index.html)
-- [Intro to Web Dev Final Project](https://liam-lee-66.github.io/Intro_to_Web_Dev/Final_Project/index.html)
-- [Technical Writing Final Project](https://liam-lee-66.github.io/SD160-Techinical-Writing-Skills---Final-Project-Portofolio/)
-- [JSB_Project_1](https://liam-lee-66.github.io/JSB_Project_1/)
-- [JSB_Project_2](https://liam-lee-66.github.io/JSB_Project_2/)
-- [JSB_Final_Project](https://liam-lee-66.github.io/JSB_Final_Project/)
-    - ID: ciscoadmin
-    - PW: cisco123
-- [Clickity-click-gmae](https://liam-lee-66.github.io/Clickity-click-gmae/)
+Check out my previous projects in the link below!
+[Past projects](https://github.com/Liam-Lee-66/liam-lee-66.github.io)
